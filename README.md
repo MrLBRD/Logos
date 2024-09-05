@@ -2,6 +2,20 @@
 Vous retrouverez ici de nombreux logos vectorisés des clubs de sports, d'entreprises et diverses associations.
 
 
+## Basketball
+
+- CBO - Cauneille Basket D'Orthe : Aldo the Apache
+- ETB - Elan Tursan Basket : Aerial
+
+
+## Rugby
+
+- SASS Rugby : Futura (Alata plus proche pour la date)
+
+
+## Pétanque
+
+- SASS Pétanque : Futura
 
 ### Clause de Non-Responsabilité
 
