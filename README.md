@@ -6,6 +6,7 @@ Vous retrouverez ici de nombreux logos vectorisés des clubs de sports, d'entrep
 
 - CBO - Cauneille Basket D'Orthe : Aldo the Apache
 - ETB - Elan Tursan Basket : Aerial
+- Pau Nord-Est - Elan Béarnais : Enter Sansman
 
 
 ## Rugby
