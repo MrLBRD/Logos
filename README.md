@@ -14,6 +14,7 @@ Vous retrouverez ici de nombreux logos vectorisés des clubs de sports, d'entrep
 ## Rugby
 
 - SASS Rugby : Futura (Alata plus proche pour la date)
+- AS Narrosse : Noto Sans Bold
 
 
 ## Pétanque
